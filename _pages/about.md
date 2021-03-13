@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Perfil Profesional"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Perfil Profesional 
 
 Ingeniero Electrónico con formación en telecomunicaciones, inteligencia computacional, automatización
 industrial y sistemas de control. Soy un profesional de excelentes habilidades técnicas en las diferentes
