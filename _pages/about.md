@@ -10,14 +10,16 @@ redirect_from:
 
 **Bienvenido !!**
 Soy Ingeniero Electrónico con formación en telecomunicaciones, inteligencia computacional, automatización
-industrial y sistemas de control. Actualmente curso una Maestría en Ciencias de la Información de y las comunicaciones, cuyo énfases es la Ingeniería de Software. Soy un profesional de excelentes habilidades técnicas en las diferentes áreas de conocimiento de la ingeniería. Actu
+industrial y sistemas de control. Actualmente curso una Maestría en Ciencias de la Información de y las comunicaciones, cuyo énfases es la Ingeniería de Software. Soy un profesional de excelentes habilidades técnicas en las diferentes áreas de conocimiento de la ingeniería.
 
 Cuento con experiencia profesional en el sector financiero en el Banco de Bogotá. y recientemente en el sector de aplicación de venta de espacios de publicidad en una gran plataforma de deportes a nivel mundial, ESPN.
 
-Soy una persona capaz de enfrentar retos y situaciones de alta presión por medio de mi persistencia, proactividad, sana competencia, de la misma manera soy una persona creativa, innovadora, recursiva, participativa, enérgica, poseo capacidad de trabajo en grupo y buenas relaciones interpersonales. Como ser
-humano soy una persona honesta, respetuosa, responsable y puntual. Por éstos conocimientos y cualidades,
-soy alguien eficiente y confiable en todas las labores que desempeño.
-
+# Intereses
+- Ingeniería de Software
+- DevOps
+- Blockchain
+- Computación en la nube
+- Liderazgo
 
 # Formación Académica 
 
