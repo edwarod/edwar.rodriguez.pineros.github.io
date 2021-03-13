@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Java/.NET Developer"
   location         : "Bogotá, Colombia"
-  employer         : "Globant"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "edarodriguezp@correo.udistrital.edu.co"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/edwar-arturo-rodríguez-piñeros-26015813b"
+  linkedin         : "edwar-arturo-rodríguez-piñeros-26015813b"
   orcid            : 
   pinterest        :
   soundcloud       :
