@@ -8,23 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+**Bienvenido !!**
+Soy Ingeniero Electrónico con formación en telecomunicaciones, inteligencia computacional, automatización
+industrial y sistemas de control. Actualmente curso una Maestría en Ciencias de la Información de y las comunicaciones, cuyo énfases es la Ingeniería de Software. Soy un profesional de excelentes habilidades técnicas en las diferentes áreas de conocimiento de la ingeniería. Actu
 
-Ingeniero Electrónico con formación en telecomunicaciones, inteligencia computacional, automatización
-industrial y sistemas de control. Soy un profesional de excelentes habilidades técnicas en las diferentes
-áreas de conocimiento de la ingeniería.
+Cuento con experiencia profesional en el sector financiero en el Banco de Bogotá. y recientemente en el sector de aplicación de venta de espacios de publicidad en una gran plataforma de deportes a nivel mundial, ESPN.
 
-
-Cuento con experiencia profesional en el sector financiero (Banco de Bogotá), realizando el análisis,
-diseño y desarrollo de requerimientos de software, los cuales incluyen implementaciones tanto en Back-End
-basados en la plataforma Java, sobre Java EE (EJB, JPA, Hibernate, JSF, JSP, JSTL), Spring Framework
-(Boot, Core, MVC y Data), JUnit, servicios web (SOAP y REST), como en Front-End (JavaScript, jQuery,
-ajax, Bootstrap), con conexiones a bases de datos ORACLE, SQL Server y PostgreSQL. Adicionalmente,
-tengo experiencia en desarrollo y mantenimiento de procedimientos almacenados y paquetes de funciones
-(PL/SQL).
-
-
-Poseo un alto dominio del idioma Inglés (B1+), de tipo conversacional fluido, con excelente comprensión
-de lectura y con una escritura coherente.
 Soy una persona capaz de enfrentar retos y situaciones de alta presión por medio de mi persistencia, proactividad, sana competencia, de la misma manera soy una persona creativa, innovadora, recursiva, participativa, enérgica, poseo capacidad de trabajo en grupo y buenas relaciones interpersonales. Como ser
 humano soy una persona honesta, respetuosa, responsable y puntual. Por éstos conocimientos y cualidades,
 soy alguien eficiente y confiable en todas las labores que desempeño.
@@ -52,3 +41,13 @@ Compañía | Programa | Fecha
 ------------ | ------------- | ------------
 <img src="../images/microsoft.jpg" alt="drawing" width="80"/> | Azure Fundamentals AZ 900 | 02/2021
 <img src="../images/coursera.jpg" alt="drawing" width="80"/> | Blockchain Basics | 07/2020
+
+
+# Habilidades
+- .Net Core, Entity Framework, Ioc.
+- Java, Java EE (EJB, JPA, Hibernate, JSF, JSP, JSTL) 
+- Spring Framework (Boot, Core, MVC y Data)
+- NUnit, Telerik Just Mock, JUnit, Mockito
+- Servicios web (SOAP y REST)
+- Bases de datos ORACLE (PL/SQL), SQL Server y PostgreSQL.
+
